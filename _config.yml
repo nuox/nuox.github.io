@@ -1,0 +1,8 @@
+title: nuox.github.io
+description: Brain Damage Inc.
+google_analytics: UA-11783806-8
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
